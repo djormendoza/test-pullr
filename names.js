@@ -1,2 +1,2 @@
-console.log("srbikku");
-console.log("djormendoza");
+console.log("SRBIKKU");
+console.log("DJORMENDOZA");
